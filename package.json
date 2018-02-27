@@ -1,0 +1,22 @@
+{
+  "name": "oauth-basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danish-K-Shaikh/express-setup.git"
+  },
+  "author": "Danish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Danish-K-Shaikh/express-setup/issues"
+  },
+  "homepage": "https://github.com/Danish-K-Shaikh/express-setup#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
